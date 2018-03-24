@@ -14,5 +14,24 @@ public class BukuAksi {
         Buku Bukutulis  = new Buku();
         Buku Bukuharian = new Buku();
         Buku Bukugambar = new Buku();
+        
+        Bukutulis.ukuran=16;
+        Bukutulis.bentuk="persegi";
+        Bukutulis.warna="putih";
+        Bukutulis.jumlahisi=20;
+        Bukutulis.kegunaan="menulis";
+        
+        Bukuharian.ukuran=13;
+        Bukuharian.bentuk="persegi";
+        Bukuharian.warna="putih";
+        Bukuharian.jumlahisi=30;
+        Bukuharian.kegunaan="menulis cerita keseharian";
+        
+        Bukugambar.ukuran=29;
+        Bukugambar.bentuk="persegi panjang";
+        Bukugambar.warna="putih";
+        Bukugambar.jumlahisi=10;
+        Bukugambar.kegunaan="menggambar";
+        
     }
 }
