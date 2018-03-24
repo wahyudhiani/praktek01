@@ -33,5 +33,8 @@ public class BukuAksi {
         Bukugambar.jumlahisi=10;
         Bukugambar.kegunaan="menggambar";
         
+        Bukutulis.caramenyimpan();
+        Bukuharian.caramenyimpan();
+        Bukugambar.caramenyimpan();
     }
 }
